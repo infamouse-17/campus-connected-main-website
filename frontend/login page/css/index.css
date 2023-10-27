@@ -1,0 +1,226 @@
+.slide-169-2-child,
+.slide-169-2-item {
+  position: absolute;
+  background-color: var(--color-darkslategray);
+  box-sizing: border-box;
+}
+.slide-169-2-child {
+  top: -34px;
+  left: -35px;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-black);
+  width: 594px;
+  height: 1643px;
+}
+.slide-169-2-item {
+  top: 173px;
+  left: 653px;
+  border-radius: var(--br-35xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid transparent;
+  width: 1198px;
+  height: 193px;
+}
+.rectangle-icon,
+.slide-169-2-child1,
+.slide-169-2-child2,
+.slide-169-2-inner {
+  position: absolute;
+  top: 188px;
+  left: 659px;
+  border-radius: var(--br-35xl);
+  width: 1183px;
+  height: 171px;
+}
+.rectangle-icon,
+.slide-169-2-child1,
+.slide-169-2-child2 {
+  top: 393px;
+  left: 660px;
+  height: 257px;
+}
+.slide-169-2-child1,
+.slide-169-2-child2 {
+  top: 752px;
+  left: 649px;
+  width: 395px;
+  height: 523px;
+}
+.slide-169-2-child2 {
+  left: 1103px;
+  width: 739px;
+}
+.name,
+.name1,
+.reg-number,
+.reg-number1 {
+  position: absolute;
+  top: 244px;
+  left: 895px;
+  font-weight: 600;
+  display: inline-block;
+  width: 105px;
+  height: 26px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.name1,
+.reg-number,
+.reg-number1 {
+  top: 529px;
+  left: 739px;
+}
+.reg-number,
+.reg-number1 {
+  top: 244px;
+  left: 1445px;
+  width: 152px;
+}
+.reg-number1 {
+  top: 529px;
+  left: 1382px;
+}
+.clear-1-icon {
+  position: absolute;
+  top: 47px;
+  left: 62px;
+  width: 399px;
+  height: 165px;
+  object-fit: cover;
+}
+.peer-center {
+  position: absolute;
+  top: 58px;
+  left: 1080px;
+  font-size: 68px;
+  display: inline-block;
+  font-family: var(--font-inter);
+  text-align: center;
+  width: 441px;
+  height: 72px;
+}
+.ellipse-div {
+  position: absolute;
+  top: 210px;
+  left: 707px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 120px;
+  height: 120px;
+}
+.time-table-editor {
+  margin: 0;
+  padding-left: var(--padding-26xl);
+}
+.time-table-editor-container {
+  position: absolute;
+  top: 268px;
+  left: 44px;
+  font-size: var(--font-inherit);
+  display: inline-block;
+  font-family: var(--font-inherit);
+  color: var(--color-white);
+  width: 441px;
+  height: 124px;
+  cursor: pointer;
+}
+.rectangle-div,
+.slide-169-2-child3,
+.slide-169-2-child4,
+.slide-169-2-child5 {
+  position: absolute;
+  top: 507px;
+  left: 827px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  width: 400px;
+  height: 70px;
+}
+.slide-169-2-child3,
+.slide-169-2-child4,
+.slide-169-2-child5 {
+  top: 858px;
+  left: 1163px;
+  width: 620px;
+  height: 366px;
+}
+.slide-169-2-child4,
+.slide-169-2-child5 {
+  top: 841px;
+  left: 698px;
+  width: 298px;
+  height: 383px;
+}
+.slide-169-2-child5 {
+  top: 507px;
+  left: 1534px;
+  width: 268px;
+  height: 70px;
+}
+.search-peer,
+.whereabouts {
+  font-size: var(--font-size-15xl);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  width: 274px;
+  height: 74px;
+}
+.search-peer {
+  position: absolute;
+  top: 410px;
+  left: 707px;
+  display: inline-block;
+}
+.whereabouts {
+  top: 779px;
+  left: 1171px;
+}
+.dashboard,
+.groups,
+.peers,
+.whereabouts {
+  position: absolute;
+  display: inline-block;
+}
+.peers {
+  top: 783px;
+  left: 710px;
+  font-size: var(--font-size-15xl);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  text-align: center;
+  width: 274px;
+  height: 74px;
+}
+.dashboard,
+.groups {
+  left: 44px;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+  color: var(--color-white);
+}
+.dashboard {
+  top: 318px;
+  width: 290px;
+  height: 110px;
+}
+.groups {
+  top: 366px;
+  width: 250px;
+  cursor: pointer;
+}
+.slide-169-2 {
+  position: relative;
+  background-color: #ebf2f1;
+  width: 100%;
+  height: 1408px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+.adjusting{
+  position: absolute;
+  top: 231px;
+  left: 48%;
+}

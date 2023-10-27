@@ -1,0 +1,153 @@
+.slide-169-4-child,
+.slide-169-4-item {
+  position: absolute;
+  background-color: var(--color-darkslategray);
+  box-sizing: border-box;
+}
+.slide-169-4-child {
+  top: -34px;
+  left: -35px;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-black);
+  width: 594px;
+  height: 1643px;
+}
+.slide-169-4-item {
+  top: 173px;
+  left: 653px;
+  border-radius: var(--br-35xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid transparent;
+  width: 1198px;
+  height: 193px;
+}
+.rectangle-icon,
+.slide-169-4-inner {
+  position: absolute;
+  top: 188px;
+  left: 659px;
+  border-radius: var(--br-35xl);
+  width: 1183px;
+  height: 171px;
+}
+.rectangle-icon {
+  top: 440px;
+  left: 620px;
+  width: 1222px;
+  height: 835px;
+}
+.name,
+.reg-number {
+  position: absolute;
+  top: 244px;
+  left: 895px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  font-family: var(--font-montserrat);
+  display: inline-block;
+  width: 105px;
+  height: 26px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.reg-number {
+  left: 1445px;
+  width: 152px;
+}
+.clear-1-icon,
+.dashboard {
+  position: absolute;
+  top: 47px;
+}
+.clear-1-icon {
+  left: 62px;
+  width: 399px;
+  height: 165px;
+  object-fit: cover;
+}
+.dashboard {
+  left: 918px;
+  font-size: 68px;
+  display: inline-block;
+  font-family: var(--font-inter);
+  text-align: center;
+  width: 722px;
+  height: 72px;
+}
+.ellipse-div {
+  position: absolute;
+  top: 210px;
+  left: 707px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 120px;
+  height: 120px;
+}
+.time-table-editor {
+  margin: 0;
+  padding-left: var(--padding-26xl);
+}
+.time-table-editor-container {
+  position: absolute;
+  top: 268px;
+  left: 44px;
+  display: inline-block;
+  color: var(--color-white);
+  width: 441px;
+  height: 124px;
+  cursor: pointer;
+}
+.rectangle-div {
+  position: absolute;
+  top: 610px;
+  left: 717px;
+  border-radius: 20px;
+  background-color: var(--color-gainsboro);
+  width: 1030px;
+  height: 588px;
+}
+.groups,
+.peer-center,
+.time-table {
+  position: absolute;
+  display: inline-block;
+}
+.time-table {
+  top: 483px;
+  left: 730px;
+  font-size: var(--font-size-15xl);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  width: 455px;
+  height: 119px;
+}
+.groups,
+.peer-center {
+  left: 44px;
+  color: var(--color-white);
+  cursor: pointer;
+}
+.peer-center {
+  top: 318px;
+  width: 290px;
+  height: 110px;
+}
+.groups {
+  top: 369px;
+  width: 250px;
+}
+.slide-169-4 {
+  position: relative;
+  background-color: #ebf2f1;
+  width: 100%;
+  height: 1408px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-inherit);
+  color: var(--color-black);
+  font-family: var(--font-inherit);
+}
+.adjusting{
+  position: absolute;
+  top: 231px;
+  left: 48%;
+}

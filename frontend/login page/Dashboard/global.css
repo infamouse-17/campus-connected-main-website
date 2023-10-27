@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-inherit: inherit;
+  --font-montserrat: Montserrat;
+
+  /* font sizes */
+  --font-size-15xl: 34px;
+  --font-size-lg: 18px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gainsboro: #d9d9d9;
+  --color-darkslategray: #194759;
+
+  /* Paddings */
+  --padding-26xl: 45px;
+
+  /* Border radiuses */
+  --br-35xl: 54px;
+}
